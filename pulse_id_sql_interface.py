@@ -84,20 +84,13 @@ if 'custom_template_content' not in st.session_state:
 Merchant Name: {merchant_data['name']}
 Email: {merchant_data['email']}
 Business Type: {merchant_data['business_type']}
-
-The email should be in this exact format:
-Merchant Name: [Merchant Name]
-To: [Recipient Email]
-From: [Your Email]
-Subject: [Email Subject]
-Body: [Email Body - 300 words professional email]
-
+        
 The email should:
 1. Be professional yet friendly
 2. Mention potential collaboration opportunities
 3. Be around 300 words
 4. Include a compelling subject line
-5. Format all links as HTML <a> tags (e.g., <a href='https://example.com'>Example</a>)"""
+5. Have proper HTML formatting"""
 if 'email_dataframe' not in st.session_state:
     st.session_state.email_dataframe = pd.DataFrame(columns=['id', 'Merchant_Name', 'To', 'From', 'Subject', 'Body'])
 
