@@ -201,7 +201,7 @@ def convert_links_to_html(text):
 def parse_email_components(email_text):
     components = {
         'Merchant_Name': '',
-        'To': 'jayan@pulseid.com',
+        'To': '',
         'From': '',
         'Subject': '',
         'Body': ''
@@ -215,7 +215,7 @@ def parse_email_components(email_text):
     # Extract To
     to_match = re.search(r"To:\s*(.*?)(?=\nFrom:|$)", email_text, re.IGNORECASE)
     if to_match:
-        components['To'] = 'jayan@pulseid.com'  # Hardcoded recipient
+        components['To'] = to_match.group(1).strip()  # Hardcoded recipient
     
     # Extract From
     from_match = re.search(r"From:\s*(.*?)(?=\nSubject:|$)", email_text, re.IGNORECASE)
