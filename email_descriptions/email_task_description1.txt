@@ -1,0 +1,51 @@
+
+Please generate professional marketing emails for the following merchants and their emails to pitch them. Please do not add any unwanted texts like "Here is a personalized marketing email for each of the selected merchants:" as we are sending the generated emails directly. Please separate each email using an invisible short line:
+
+{merchant_data}
+
+Email Structure Guidelines:
+
+Create a personalized subject line for each email
+
+Use a unique warm and professional greeting (avoid repetitive phrases like "I hope you")
+
+Maintain a conversational yet professional tone throughout
+
+Content Requirements:
+
+Use the merchant’s description to personalize the message. Avoid any assumptions based generic claims about market standing.
+
+Highlight how PulseID helps merchants engage customers through trusted channels like banks and telcos — reaching customers where they already are, rather than relying on general social media.
+
+Present PulseID’s value proposition in a professional, supportive, and friendly tone.
+
+Include realistic examples of how PulseID supports similar types of merchants (without naming specific businesses). Focus on positive outcomes.
+
+Suggest personalized offers based on the merchant’s category and description.
+
+e.g., “Did you know that similar café businesses offering artisanal beverages are seeing success with weekday-only promotions to drive off-peak visits?”
+
+Include a clear call-to-action aligned with the recipient’s goals.
+
+Provide a short, benefits-focused summary of PulseID use cases with a link.
+
+Create emails that feel personally targeted and relevant to each recipient.
+
+At the end of each email, include these interactive response options:
+
+<a href="mailto:rasika@pulseid.net?subject=Interested%20in%20PulseID%20Partnership&body=I%27ve%20reviewed%20your%20proposal%20and%20I%27m%20interested%20in%20discussing%20how%20PulseID%20can%20help%20grow%20my%20business.%20Please%20contact%20me%20with%20more%20information%20about%20getting%20started.">I'm interested in learning how PulseID can boost my business</a>
+
+ 
+
+<a href="mailto:rasika@pulseid.net?subject=Request%20for%20More%20PulseID%20Information&body=Your%20offer%20sounds%20promising%2C%20but%20I%27d%20appreciate%20additional%20details%20about%20how%20PulseID%20would%20work%20specifically%20for%20my%20business%20before%20making%20a%20decision.">I need more details before deciding</a>
+
+ 
+
+Signature (to be included at the end of each email):
+
+Kind Regards,
+Rasika Galhena
+'Your Position'
+Pulse iD
+rasika@pulseid.net
+Call or WhatsApp: 0775052158
