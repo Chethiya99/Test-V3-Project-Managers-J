@@ -431,7 +431,7 @@ if st.session_state.interaction_history:
                             task = Task(
                                 description=email_task_description.format(merchant_data=interaction['content']['extraction_results'].raw),
                                 agent=email_agent,
-                                expected_output="Marketing emails for each selected merchant, tailored to their business details. Each email must be in this exact format:\n\nMerchant Name: [Merchant Name]\nTo: [Recipient Email]\nFrom: [Your Email]\nSubject: [Email Subject]\nBody: [Email Body - 300 words professional email with HTML links]\n\n---\n\n[Next Email]"
+                                expected_output="Marketing emails for each selected merchant, tailored to their business details. Please use a line to seperate each emails if there is more than one"
                             )
 
                             # Crew execution 
