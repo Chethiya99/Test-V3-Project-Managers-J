@@ -1,4 +1,3 @@
-
 Please generate professional marketing emails for the following merchants and their emails to pitch them. Please do not add any unwanted texts like "Here is a personalized marketing email for each of the selected merchants:" as we are sending the generated emails directly. Please separate each email using an invisible short line:
 
 {merchant_data}
