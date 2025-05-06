@@ -28,8 +28,6 @@ e.g., “Did you know that similar café businesses offering artisanal beverages
 
 Include a clear call-to-action aligned with the recipient’s goals.
 
-Provide a short, benefits-focused summary of PulseID use cases with a link.
-
 Create emails that feel personally targeted and relevant to each recipient.
 
 At the end of each email, include these interactive response options using HTML <a> tags so they can be pasted directly into Gmail as live links without manual editing:
